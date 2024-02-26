@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#chart-container{
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+canvas {
+    margin-bottom: 50px;
+}
+
+.comp-btn {
+    width: 100%;
+}
+
+.comp-btn:first-child,
+.card:first-child {
+    margin-top: 64px !important;
+}
+
+.main-content {
+    height: 100vh;
+    overflow: auto;
+}
